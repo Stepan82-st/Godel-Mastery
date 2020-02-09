@@ -52,7 +52,7 @@
 	}
 
 	var option1 = document.getElementsByTagName("option")[0].value = "DDT group",
-	option2 = document.getElementsByTagName("option")[1].value = "SCORPION",
+	option2 = document.getElementsByTagName("option")[1].value = "SCORPIONS",
 	option3 = document.getElementsByTagName("option")[2].value = "ARIA",
 	cont = document.querySelectorAll("#content")[0],
 	centr = disk.querySelector("#centr"),
